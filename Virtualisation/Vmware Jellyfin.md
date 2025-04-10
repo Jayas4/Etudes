@@ -171,10 +171,3 @@ ssh root@192.168.3.34
 ```
 
 ---
-
-
-
-🎉 **Félicitations !**  
-Vous avez maintenant un serveur Debian virtuel fonctionnel avec LAMP installé et accessible à distance !
-
-> Par *Timeo & Jaya*
